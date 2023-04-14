@@ -1,0 +1,15 @@
+F:\aspNetCore\Snake\Snake\obj\Debug\net7.0\Snake.csproj.AssemblyReference.cache
+F:\aspNetCore\Snake\Snake\obj\Debug\net7.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+F:\aspNetCore\Snake\Snake\obj\Debug\net7.0\Snake.AssemblyInfoInputs.cache
+F:\aspNetCore\Snake\Snake\obj\Debug\net7.0\Snake.AssemblyInfo.cs
+F:\aspNetCore\Snake\Snake\obj\Debug\net7.0\Snake.csproj.CoreCompileInputs.cache
+F:\aspNetCore\Snake\Snake\bin\Debug\net7.0\Snake.exe
+F:\aspNetCore\Snake\Snake\bin\Debug\net7.0\Snake.deps.json
+F:\aspNetCore\Snake\Snake\bin\Debug\net7.0\Snake.runtimeconfig.json
+F:\aspNetCore\Snake\Snake\bin\Debug\net7.0\Snake.dll
+F:\aspNetCore\Snake\Snake\bin\Debug\net7.0\Snake.pdb
+F:\aspNetCore\Snake\Snake\obj\Debug\net7.0\Snake.dll
+F:\aspNetCore\Snake\Snake\obj\Debug\net7.0\refint\Snake.dll
+F:\aspNetCore\Snake\Snake\obj\Debug\net7.0\Snake.pdb
+F:\aspNetCore\Snake\Snake\obj\Debug\net7.0\Snake.genruntimeconfig.cache
+F:\aspNetCore\Snake\Snake\obj\Debug\net7.0\ref\Snake.dll
